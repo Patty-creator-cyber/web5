@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260406163505007LWR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604061635053WG84B</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MUCHO ARTE QUE CONTAR. Emociónate con Van Gogh</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775485233363</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de Aprendizaje: Emociónate con Van Gogh</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de Aprendizaje: Emociónate con Van Gogh</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de Aprendizaje: Emociónate con Van Gogh</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+      <odeBlockId>20260405192504PJEHHY</odeBlockId>
+      <blockName>Situación de Aprendizaje: Emociónate con Van Gogh</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+          <odeBlockId>20260405192504PJEHHY</odeBlockId>
+          <odeIdeviceId>202603311907261848N2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+      <odeBlockId>20260405192504GRHPUH</odeBlockId>
+      <blockName>Mucho Arte que contar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+      <odeBlockId>20260405192504EQOSGZ</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+          <odeBlockId>20260405192504EQOSGZ</odeBlockId>
+          <odeIdeviceId>202604041628051602XN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>ETAPA EDUCACTIVA</strong>:&nbsp; Educación Primaria. 3º EP.</p>
+<p><strong>ÁREAS O MATERIAS:&nbsp;</strong> Lengua Castellana y Literatura, Educación Artística.</p>
+<p><strong>AGRUPAMIENTOS:</strong> Trabajo individual, pequeños grupos ( cooperativo).</p>
+<p><strong>ORGANIZACIÓN ESPACIAL:</strong>&nbsp; Aula ordinaria, aula TIC, Radio escolar.</p>
+<p><strong>TEMPORALIZACIÓN:</strong> 8 sesiones de 50 minutos.</p>
+<p><strong>PRODUCTO DEL ALUMNADO:&nbsp;</strong> Infografía y Podcast.</p>
+<p><strong>HERRAMIENTAS TECNOLÓGICAS:</strong>&nbsp; Canva ( infografía) y Radio escolar ( podcast).</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604041628051602XN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ETAPA EDUCACTIVA</strong>:  Educación Primaria. 3º EP.</p>\n<p><strong>ÁREAS O MATERIAS: </strong> Lengua Castellana y Literatura, Educación Artística.</p>\n<p><strong>AGRUPAMIENTOS:</strong> Trabajo individual, pequeños grupos ( cooperativo).</p>\n<p><strong>ORGANIZACIÓN ESPACIAL:</strong>  Aula ordinaria, aula TIC, Radio escolar.</p>\n<p><strong>TEMPORALIZACIÓN:</strong> 8 sesiones de 50 minutos.</p>\n<p><strong>PRODUCTO DEL ALUMNADO: </strong> Infografía y Podcast.</p>\n<p><strong>HERRAMIENTAS TECNOLÓGICAS:</strong>  Canva ( infografía) y Radio escolar ( podcast).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+      <odeBlockId>20260405192504CJVYML</odeBlockId>
+      <blockName>Situación de Aprendizaje : Mucho Arte que contar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dv9-y8rxxku4z</odePageId>
+          <odeBlockId>20260405192504CJVYML</odeBlockId>
+          <odeIdeviceId>20260404170144517BB3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>1. INTENCIÓN EDUCATIVA:</strong>  </em>La presente situación de aprendizaje tiene como finalidad desarrollar en el alumnado competencias clave a través de un enfoque activo y significativo. Se pretende que el alumnado sea protagonista de su propio aprendizaje, fomentando la reflexión, la creatividad, el pensamiento crítico y que valore la importancia que tiene el Arte para la cultura, el desarrollo de las personas y las emociones. </p>
+<p>Asimismo, se establece una relación con los Objetivos de Desarrollo Sostenible (<strong>ODS</strong>), especialmente con aquellos vinculados a la Educación de calidad (<strong>ODS 4</strong>), sostenibilidad y la ciudadanía responsable, contribuyendo a la formación integral del alumnado y a su compromiso con los retos y desafíos del siglo XXI.</p>
+<p><strong>2. ELEMENTOS CURRICULARES</strong>: En esta situación de aprendizaje se trabajan diversas <strong>competencias clave</strong>, tales como la competencia en comunicación lingüística(<strong>CCL</strong>: expresión oral y escrita, descripción de cuadros), la competencia digital (<strong>CD</strong>: búsqueda de información, vídeos, Competencia conciencia y expresión cultural ( <strong>CCEC</strong>: apreciar y valorar el arte como un recurso motivador y enriquecedor)  y la competencia personal, social y de aprender a aprender(<strong>CPSAA</strong>: reflexiones sobre el arte y emociones).</p>
+<p>En cuanto a las <strong>competencias específicas</strong>, se desarrollan aquellas relacionadas con la comprensión, análisis y producción de información, así como la utilización de herramientas digitales para la creación de contenidos tales como: comprender textos orales , expresarse oralmente de forma clara, comprender textos escritos, producir textos escritos,  reflexionar sobre el uso del lenguaje: adjetivos, sustantivos, vocabulario, buscar y seleccionar información en diferentes fuentes.</p>
+<p>Los <strong>saberes básicos</strong> integran conocimientos, destrezas y actitudes vinculados a los contenidos del área, permitiendo al alumnado adquirir aprendizajes significativos tales como: comunicación oral: descripción, escucha activa. Comunicación escrita: lecturas, cartas, descripciones, interpretación creativa de imágenes, cuadros.</p>
+<p>Los <strong>criterios de evaluación</strong> están directamente relacionados con las competencias específicas ( nacen del "para qué" de las mismas), y permiten valorar el grado de adquisición de los aprendizajes, teniendo en cuenta tanto el proceso como el producto final tales como: Describe oralmente una obra de arte utilizando el vocabulario adecuado, comprende textos sencillos sobre la vida del pintor, escribe textos breves con coherencia y vocabulario básico, participa en las actividades respetando turnos y opiniones.</p>
+<p><em><strong>3. METODOLOGÍAS ACTIVAS: </strong></em>Para el desarrollo de esta situación de aprendizaje, se emplearán metodologías activas que favorecen la participación del alumnado. </p>
+<p>Entre ellas desataca el Aprendizaje Basado en Proyectos <strong>(ABP)</strong>, que permite trabajar de manera globalizada y contextualizada, así como el <strong>aprendizaje cooperativo</strong>, que fomenta el trabajo en equipo y la responsabilidad compartida. </p>
+<p>Se incorporan estrategias del Diseño Universal para el Aprendizaje <strong>(DUA),</strong> ofreciendo múltiples formas de acción y expresión, de representación y de implicación, con la finalidad de atender a la diversidad del alumnado.</p>
+<p>Esta metodologías promueven el aprendizaje más motivador, inclusivo y significativo en nuestro alumnado.</p>
+<p><em><strong>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO: </strong></em> Esta situación de aprendizaje se relaciona con distintos proyectos y programas del centro educativo. En concreto, se vincula con el Plan de Lectura, Escritura e Investigación <strong>(PLEI),</strong> fomentando la comprensión lectora y la expresión oral y escrita a través de la búsqueda y elaboración de información. </p>
+<p>Asimismo, guarda relación con el Plan de Atención a la Diversidad <strong>(PAD),</strong> ya que se plantean actividades adaptadas a distintos ritmos de aprendizaje, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p>Se conecta también con el Proyecto Digital de Centro <strong>(PD), </strong>promoviendo el uso de herramientas digitales para la creación de productos como infografías o presentaciones interactivas.</p>
+<p>El Programa anual de formación permanente del profesorado "Tratémonos bien" se llevará a cabo durante todo el curso.</p>
+<p><em><strong>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES: </strong></em>Se propones diversas actividades complementarias que enriquecen el proceso educativo.</p>
+<p>Entre ellas, se puede realizar una salida al entorno cercano para observar de forma directa los contenidos trabajados en el aula. Taller en la biblioteca municipal del barrio. "Cuéntame un cuadro" taller y representación sobre Arte.</p>
+<p>Como actividad extraescolar, vamos a proponer la elaboración de un proyecto en casa para implicar la colaboración de las familias en el centro educativo y en el aprendizaje del alumnado y relacionado con Arte que es el hilo conductor de nuestra situación de aprendizaje.</p>
+<p><em><strong>6. ATRIBUCIÓN Y DESCARGA: </strong></em>Este recurso educativo se publica bajo licencia: Creative Commons Reconocimiento- Compartir Igual 4.0 lo que permite su uso, adaptación y difusión.</p>
+<p>Se incluirá un apartado final en el que se facilitará la descarga del archivo en formato elp. permitiendo así su reutilización y modificación por otros docentes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260404170144517BB3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>1. INTENCIÓN EDUCATIVA:</strong>  </em>La presente situación de aprendizaje tiene como finalidad desarrollar en el alumnado competencias clave a través de un enfoque activo y significativo. Se pretende que el alumnado sea protagonista de su propio aprendizaje, fomentando la reflexión, la creatividad, el pensamiento crítico y que valore la importancia que tiene el Arte para la cultura, el desarrollo de las personas y las emociones. </p>\n<p>Asimismo, se establece una relación con los Objetivos de Desarrollo Sostenible (<strong>ODS</strong>), especialmente con aquellos vinculados a la Educación de calidad (<strong>ODS 4</strong>), sostenibilidad y la ciudadanía responsable, contribuyendo a la formación integral del alumnado y a su compromiso con los retos y desafíos del siglo XXI.</p>\n<p><strong>2. ELEMENTOS CURRICULARES</strong>: En esta situación de aprendizaje se trabajan diversas <strong>competencias clave</strong>, tales como la competencia en comunicación lingüística(<strong>CCL</strong>: expresión oral y escrita, descripción de cuadros), la competencia digital (<strong>CD</strong>: búsqueda de información, vídeos, Competencia conciencia y expresión cultural ( <strong>CCEC</strong>: apreciar y valorar el arte como un recurso motivador y enriquecedor)  y la competencia personal, social y de aprender a aprender(<strong>CPSAA</strong>: reflexiones sobre el arte y emociones).</p>\n<p>En cuanto a las <strong>competencias específicas</strong>, se desarrollan aquellas relacionadas con la comprensión, análisis y producción de información, así como la utilización de herramientas digitales para la creación de contenidos tales como: comprender textos orales , expresarse oralmente de forma clara, comprender textos escritos, producir textos escritos,  reflexionar sobre el uso del lenguaje: adjetivos, sustantivos, vocabulario, buscar y seleccionar información en diferentes fuentes.</p>\n<p>Los <strong>saberes básicos</strong> integran conocimientos, destrezas y actitudes vinculados a los contenidos del área, permitiendo al alumnado adquirir aprendizajes significativos tales como: comunicación oral: descripción, escucha activa. Comunicación escrita: lecturas, cartas, descripciones, interpretación creativa de imágenes, cuadros.</p>\n<p>Los <strong>criterios de evaluación</strong> están directamente relacionados con las competencias específicas ( nacen del \"para qué\" de las mismas), y permiten valorar el grado de adquisición de los aprendizajes, teniendo en cuenta tanto el proceso como el producto final tales como: Describe oralmente una obra de arte utilizando el vocabulario adecuado, comprende textos sencillos sobre la vida del pintor, escribe textos breves con coherencia y vocabulario básico, participa en las actividades respetando turnos y opiniones.</p>\n<p><em><strong>3. METODOLOGÍAS ACTIVAS: </strong></em>Para el desarrollo de esta situación de aprendizaje, se emplearán metodologías activas que favorecen la participación del alumnado. </p>\n<p>Entre ellas desataca el Aprendizaje Basado en Proyectos <strong>(ABP)</strong>, que permite trabajar de manera globalizada y contextualizada, así como el <strong>aprendizaje cooperativo</strong>, que fomenta el trabajo en equipo y la responsabilidad compartida. </p>\n<p>Se incorporan estrategias del Diseño Universal para el Aprendizaje <strong>(DUA),</strong> ofreciendo múltiples formas de acción y expresión, de representación y de implicación, con la finalidad de atender a la diversidad del alumnado.</p>\n<p>Esta metodologías promueven el aprendizaje más motivador, inclusivo y significativo en nuestro alumnado.</p>\n<p><em><strong>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO: </strong></em> Esta situación de aprendizaje se relaciona con distintos proyectos y programas del centro educativo. En concreto, se vincula con el Plan de Lectura, Escritura e Investigación <strong>(PLEI),</strong> fomentando la comprensión lectora y la expresión oral y escrita a través de la búsqueda y elaboración de información. </p>\n<p>Asimismo, guarda relación con el Plan de Atención a la Diversidad <strong>(PAD),</strong> ya que se plantean actividades adaptadas a distintos ritmos de aprendizaje, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p>Se conecta también con el Proyecto Digital de Centro <strong>(PD), </strong>promoviendo el uso de herramientas digitales para la creación de productos como infografías o presentaciones interactivas.</p>\n<p>El Programa anual de formación permanente del profesorado \"Tratémonos bien\" se llevará a cabo durante todo el curso.</p>\n<p><em><strong>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES: </strong></em>Se propones diversas actividades complementarias que enriquecen el proceso educativo.</p>\n<p>Entre ellas, se puede realizar una salida al entorno cercano para observar de forma directa los contenidos trabajados en el aula. Taller en la biblioteca municipal del barrio. \"Cuéntame un cuadro\" taller y representación sobre Arte.</p>\n<p>Como actividad extraescolar, vamos a proponer la elaboración de un proyecto en casa para implicar la colaboración de las familias en el centro educativo y en el aprendizaje del alumnado y relacionado con Arte que es el hilo conductor de nuestra situación de aprendizaje.</p>\n<p><em><strong>6. ATRIBUCIÓN Y DESCARGA: </strong></em>Este recurso educativo se publica bajo licencia: Creative Commons Reconocimiento- Compartir Igual 4.0 lo que permite su uso, adaptación y difusión.</p>\n<p>Se incluirá un apartado final en el que se facilitará la descarga del archivo en formato elp. permitiendo así su reutilización y modificación por otros docentes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnna2dvd-u5tibymwb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención Educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dvd-u5tibymwb</odePageId>
+      <odeBlockId>block-1775427627284-ie4ke3ro5</odeBlockId>
+      <blockName>1. Intención Educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dvd-u5tibymwb</odePageId>
+          <odeBlockId>block-1775427627284-ie4ke3ro5</odeBlockId>
+          <odeIdeviceId>idevice-1775427627281-smxh0g2eh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. INTENCIÓN EDUCATIVA</strong>:  La presente situación de aprendizaje tiene como finalidad desarrollar en el alumnado competencias clave a través de un enfoque activo y significativo. Se pretende que el alumnado sea protagonista de su propio aprendizaje, fomentando la reflexión, la creatividad, el pensamiento crítico y que valore la importancia que tiene el Arte para la cultura, el desarrollo de las personas y las emociones. </p>
+<p>Asimismo, se establece una relación con los Objetivos de Desarrollo Sostenible (<strong>ODS</strong>), especialmente con aquellos vinculados a la Educación de calidad (<strong>ODS 4</strong>), sostenibilidad y la ciudadanía responsable, contribuyendo a la formación integral del alumnado y a su compromiso con los retos y desafíos del siglo XXI.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775427627281-smxh0g2eh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. INTENCIÓN EDUCATIVA</strong>:  La presente situación de aprendizaje tiene como finalidad desarrollar en el alumnado competencias clave a través de un enfoque activo y significativo. Se pretende que el alumnado sea protagonista de su propio aprendizaje, fomentando la reflexión, la creatividad, el pensamiento crítico y que valore la importancia que tiene el Arte para la cultura, el desarrollo de las personas y las emociones. </p>\n<p>Asimismo, se establece una relación con los Objetivos de Desarrollo Sostenible (<strong>ODS</strong>), especialmente con aquellos vinculados a la Educación de calidad (<strong>ODS 4</strong>), sostenibilidad y la ciudadanía responsable, contribuyendo a la formación integral del alumnado y a su compromiso con los retos y desafíos del siglo XXI.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnna2dvd-5ymuha9n9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos Curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dvd-5ymuha9n9</odePageId>
+      <odeBlockId>block-1775427956106-axl0pmvac</odeBlockId>
+      <blockName>2. Elementos Curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dvd-5ymuha9n9</odePageId>
+          <odeBlockId>block-1775427956106-axl0pmvac</odeBlockId>
+          <odeIdeviceId>idevice-1775427956102-gbm9f4bzj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>2. ELEMENTOS CURRICULARES</strong>: En esta situación de aprendizaje se trabajan diversas <strong>competencias clave</strong>, tales como la competencia en comunicación lingüística(<strong>CCL</strong>: expresión oral y escrita, descripción de cuadros), la competencia digital (<strong>CD</strong>: búsqueda de información, vídeos, Competencia conciencia y expresión cultural ( <strong>CCEC</strong>: apreciar y valorar el arte como un recurso motivador y enriquecedor)  y la competencia personal, social y de aprender a aprender(<strong>CPSAA</strong>: reflexiones sobre el arte y emociones).</p>
+<p>En cuanto a las <strong>competencias específicas</strong>, se desarrollan aquellas relacionadas con la comprensión, análisis y producción de información, así como la utilización de herramientas digitales para la creación de contenidos tales como: comprender textos orales , expresarse oralmente de forma clara, comprender textos escritos, producir textos escritos,  reflexionar sobre el uso del lenguaje: adjetivos, sustantivos, vocabulario, buscar y seleccionar información en diferentes fuentes.</p>
+<p>Los <strong>saberes básicos</strong> integran conocimientos, destrezas y actitudes vinculados a los contenidos del área, permitiendo al alumnado adquirir aprendizajes significativos tales como: comunicación oral: descripción, escucha activa, comprensión y expresión escrita: lecturas, cartas, descripciones, interpretación creativa de imágenes, cuadros y educación literaria: biografía, textos narrativos.</p>
+<p>Los <strong>criterios de evaluación</strong> están directamente relacionados con las competencias específicas ( nacen del "<em>para qué"</em> de las mismas), y permiten valorar el grado de adquisición de los aprendizajes, teniendo en cuenta tanto el proceso como el producto final tales como: Describe oralmente una obra de arte utilizando el vocabulario adecuado, comprende textos sencillos sobre la vida del pintor, escribe textos breves con coherencia y vocabulario básico, participa en las actividades respetando turnos y opiniones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775427956102-gbm9f4bzj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>2. ELEMENTOS CURRICULARES</strong>: En esta situación de aprendizaje se trabajan diversas <strong>competencias clave</strong>, tales como la competencia en comunicación lingüística(<strong>CCL</strong>: expresión oral y escrita, descripción de cuadros), la competencia digital (<strong>CD</strong>: búsqueda de información, vídeos, Competencia conciencia y expresión cultural ( <strong>CCEC</strong>: apreciar y valorar el arte como un recurso motivador y enriquecedor)  y la competencia personal, social y de aprender a aprender(<strong>CPSAA</strong>: reflexiones sobre el arte y emociones).</p>\n<p>En cuanto a las <strong>competencias específicas</strong>, se desarrollan aquellas relacionadas con la comprensión, análisis y producción de información, así como la utilización de herramientas digitales para la creación de contenidos tales como: comprender textos orales , expresarse oralmente de forma clara, comprender textos escritos, producir textos escritos,  reflexionar sobre el uso del lenguaje: adjetivos, sustantivos, vocabulario, buscar y seleccionar información en diferentes fuentes.</p>\n<p>Los <strong>saberes básicos</strong> integran conocimientos, destrezas y actitudes vinculados a los contenidos del área, permitiendo al alumnado adquirir aprendizajes significativos tales como: comunicación oral: descripción, escucha activa, comprensión y expresión escrita: lecturas, cartas, descripciones, interpretación creativa de imágenes, cuadros y educación literaria: biografía, textos narrativos.</p>\n<p>Los <strong>criterios de evaluación</strong> están directamente relacionados con las competencias específicas ( nacen del \"<em>para qué\"</em> de las mismas), y permiten valorar el grado de adquisición de los aprendizajes, teniendo en cuenta tanto el proceso como el producto final tales como: Describe oralmente una obra de arte utilizando el vocabulario adecuado, comprende textos sencillos sobre la vida del pintor, escribe textos breves con coherencia y vocabulario básico, participa en las actividades respetando turnos y opiniones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnna2dve-igwysel2f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías Activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías Activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías Activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dve-igwysel2f</odePageId>
+      <odeBlockId>block-1775428130917-72enihjro</odeBlockId>
+      <blockName>3. METODOLOGÍAS ACTIVAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dve-igwysel2f</odePageId>
+          <odeBlockId>block-1775428130917-72enihjro</odeBlockId>
+          <odeIdeviceId>idevice-1775428130913-o0nhmfkhc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>3. METODOLOGÍAS ACTIVAS</strong>: Para el desarrollo de esta situación de aprendizaje, se emplearán metodologías activas que favorecen la participación del alumnado. </p>
+<p>Entre ellas desataca el Aprendizaje Basado en Proyectos (<strong>ABP</strong>), que permite trabajar de manera globalizada y contextualizada, así como el <strong>aprendizaje cooperativo</strong>, que fomenta el trabajo en equipo y la responsabilidad compartida. </p>
+<p>Se incorporan estrategias del Diseño Universal para el Aprendizaje (<strong>DUA</strong>), ofreciendo múltiples formas de acción y expresión, de representación y de implicación, con la finalidad de atender a la diversidad del alumnado.</p>
+<p>Esta metodologías promueven el aprendizaje más motivador, inclusivo y significativo en nuestro alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775428130913-o0nhmfkhc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>3. METODOLOGÍAS ACTIVAS</strong>: Para el desarrollo de esta situación de aprendizaje, se emplearán metodologías activas que favorecen la participación del alumnado. </p>\n<p>Entre ellas desataca el Aprendizaje Basado en Proyectos (<strong>ABP</strong>), que permite trabajar de manera globalizada y contextualizada, así como el <strong>aprendizaje cooperativo</strong>, que fomenta el trabajo en equipo y la responsabilidad compartida. </p>\n<p>Se incorporan estrategias del Diseño Universal para el Aprendizaje (<strong>DUA</strong>), ofreciendo múltiples formas de acción y expresión, de representación y de implicación, con la finalidad de atender a la diversidad del alumnado.</p>\n<p>Esta metodologías promueven el aprendizaje más motivador, inclusivo y significativo en nuestro alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnna2dve-1olgu4ri5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los Proyectos y Programas del Centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los Proyectos y Programas del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los Proyectos y Programas del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dve-1olgu4ri5</odePageId>
+      <odeBlockId>block-1775428175480-y92qklkl2</odeBlockId>
+      <blockName>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dve-1olgu4ri5</odePageId>
+          <odeBlockId>block-1775428175480-y92qklkl2</odeBlockId>
+          <odeIdeviceId>idevice-1775428175477-8j4r6ajht</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</strong>:  Esta situación de aprendizaje se relaciona con distintos proyectos y programas del centro educativo. En concreto, se vincula con el Plan de Lectura, Escritura e Investigación (<strong>PLEI</strong>), fomentando la comprensión lectora y la expresión oral y escrita a través de la búsqueda y elaboración de información. </p>
+<p>Asimismo, guarda relación con el Plan de Atención a la Diversidad (<strong>PAD</strong>), ya que se plantean actividades adaptadas a distintos ritmos de aprendizaje, siguiendo los principios del Diseño Universal para el Aprendizaje (<strong>DUA</strong>).</p>
+<p>Se conecta también con el Proyecto Digital de Centro (<strong>PD</strong>), promoviendo el uso de herramientas digitales para la creación de productos como infografías o presentaciones interactivas.</p>
+<p>El Programa anual de formación permanente del profesorado "Tratémonos bien" se llevará a cabo durante todo el curso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775428175477-8j4r6ajht","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</strong>:  Esta situación de aprendizaje se relaciona con distintos proyectos y programas del centro educativo. En concreto, se vincula con el Plan de Lectura, Escritura e Investigación (<strong>PLEI</strong>), fomentando la comprensión lectora y la expresión oral y escrita a través de la búsqueda y elaboración de información. </p>\n<p>Asimismo, guarda relación con el Plan de Atención a la Diversidad (<strong>PAD</strong>), ya que se plantean actividades adaptadas a distintos ritmos de aprendizaje, siguiendo los principios del Diseño Universal para el Aprendizaje (<strong>DUA</strong>).</p>\n<p>Se conecta también con el Proyecto Digital de Centro (<strong>PD</strong>), promoviendo el uso de herramientas digitales para la creación de productos como infografías o presentaciones interactivas.</p>\n<p>El Programa anual de formación permanente del profesorado \"Tratémonos bien\" se llevará a cabo durante todo el curso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnna2dvf-grmp4jgni</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades Complementarias y Extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades Complementarias y Extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades Complementarias y Extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dvf-grmp4jgni</odePageId>
+      <odeBlockId>block-1775428221720-kqcimxbuu</odeBlockId>
+      <blockName>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dvf-grmp4jgni</odePageId>
+          <odeBlockId>block-1775428221720-kqcimxbuu</odeBlockId>
+          <odeIdeviceId>idevice-1775428221717-eof4dbyew</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</strong>: Se propones diversas actividades complementarias que enriquecen el proceso educativo.</p>
+<p>Entre ellas, se puede realizar una salida al entorno cercano para observar de forma directa los contenidos trabajados en el aula. Taller en la biblioteca municipal del barrio. "Cuéntame un cuadro" taller y representación sobre Arte.</p>
+<p>Como actividad extraescolar, vamos a proponer la elaboración de un proyecto en casa para implicar la colaboración de las familias en el centro educativo y en el aprendizaje del alumnado y relacionado con Arte que es el hilo conductor de nuestra situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775428221717-eof4dbyew","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</strong>: Se propones diversas actividades complementarias que enriquecen el proceso educativo.</p>\n<p>Entre ellas, se puede realizar una salida al entorno cercano para observar de forma directa los contenidos trabajados en el aula. Taller en la biblioteca municipal del barrio. \"Cuéntame un cuadro\" taller y representación sobre Arte.</p>\n<p>Como actividad extraescolar, vamos a proponer la elaboración de un proyecto en casa para implicar la colaboración de las familias en el centro educativo y en el aprendizaje del alumnado y relacionado con Arte que es el hilo conductor de nuestra situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnna2dvf-etg15f1jt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y Fichero Descargable</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y Fichero Descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y Fichero Descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnna2dvf-etg15f1jt</odePageId>
+      <odeBlockId>block-1775428251583-tooakfjdm</odeBlockId>
+      <blockName>6. ATRIBUCIÓN Y DESCARGABLE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnna2dvf-etg15f1jt</odePageId>
+          <odeBlockId>block-1775428251583-tooakfjdm</odeBlockId>
+          <odeIdeviceId>idevice-1775428251580-pys4h7ta8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>6. ATRIBUCIÓN Y DESCARGABLE</strong>: Este recurso educativo se publica bajo licencia: Creative Commons Reconocimiento- Compartir Igual 4.0 lo que permite su uso, adaptación y difusión.</p>
+<p>Se incluirá un apartado final en el que se facilitará la descarga del archivo en formato elp. permitiendo así su reutilización y modificación por otros docentes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775428251580-pys4h7ta8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>6. ATRIBUCIÓN Y DESCARGABLE</strong>: Este recurso educativo se publica bajo licencia: Creative Commons Reconocimiento- Compartir Igual 4.0 lo que permite su uso, adaptación y difusión.</p>\n<p>Se incluirá un apartado final en el que se facilitará la descarga del archivo en formato elp. permitiendo así su reutilización y modificación por otros docentes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485284034-r8gu2b4b1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Sda Propuesta para el alumnado</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Sda Propuesta para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Sda Propuesta para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485284034-r8gu2b4b1</odePageId>
+      <odeBlockId>block-1775485288419-0co23km1p</odeBlockId>
+      <blockName>7. Sda Propuesta para el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485284034-r8gu2b4b1</odePageId>
+          <odeBlockId>block-1775485288419-0co23km1p</odeBlockId>
+          <odeIdeviceId>idevice-1775485288417-v7f4a0u8j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>PRODUCTO ALUMNADO</strong>: Infografía y podcast sobre el pintor Van Gogh. Nuestro producto final al finalizar todas las unidades didácticas sería tener una galería de Arte sobre varios pintores y pintoras, siendo el de esta unidad Vincent Van Gogh.</p>
+<p>A través del Arte expresamos nuestras emociones siendo una herramienta maravillosa para fomentar la expresión emocional y creatividad en nuestro alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485288417-v7f4a0u8j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>PRODUCTO ALUMNADO</strong>: Infografía y podcast sobre el pintor Van Gogh. Nuestro producto final al finalizar todas las unidades didácticas sería tener una galería de Arte sobre varios pintores y pintoras, siendo el de esta unidad Vincent Van Gogh.</p>\n<p>A través del Arte expresamos nuestras emociones siendo una herramienta maravillosa para fomentar la expresión emocional y creatividad en nuestro alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485353591-nuxt35jeb</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485353591-nuxt35jeb</odePageId>
+      <odeBlockId>block-1775485501045-8we2ek96v</odeBlockId>
+      <blockName>Sesión 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485353591-nuxt35jeb</odePageId>
+          <odeBlockId>block-1775485501045-8we2ek96v</odeBlockId>
+          <odeIdeviceId>idevice-1775485501043-lv6ecg0qi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 1</strong>: Se activan conocimientos previos, activar el pensamiento con un: Observo, pienso y nos preguntamos. Partimos de lo que conocen sobre este pintor y ampliamos sus conocimientos con un texto y vídeo sobre Van Gogh. </p>
+<p>Comienzan a investigar sobre sus obras y nos detenemos en: "La noche estrellada". Pueden traer más información sobre ella o libros que puedan tener para la siguiente clase y posterior puesta en común. Deberán reflexionar sobre: los colores utilizados por el artista, que emociones les transmite la obra.</p>
+<p>Visualizan este vídeo para conocer un poco mejor al pintor y como material de ampliación pueden leer: "Emocionario" para identificar tanto sus emociones como las de nuestro artista.</p>
+<p><a href="https://youtu.be/svNjf3KEPRs">https://youtu.be/svNjf3KEPRs</a></p>
+<p>Crearán un mini diccionario con palabras que consideren importantes, les gusten o se relacionen con el Arte y con Van Gogh como por ejemplo: </p>
+<p>Emoción, pintor, obra de arte, color.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485501043-lv6ecg0qi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 1</strong>: Se activan conocimientos previos, activar el pensamiento con un: Observo, pienso y nos preguntamos. Partimos de lo que conocen sobre este pintor y ampliamos sus conocimientos con un texto y vídeo sobre Van Gogh. </p>\n<p>Comienzan a investigar sobre sus obras y nos detenemos en: \"La noche estrellada\". Pueden traer más información sobre ella o libros que puedan tener para la siguiente clase y posterior puesta en común. Deberán reflexionar sobre: los colores utilizados por el artista, que emociones les transmite la obra.</p>\n<p>Visualizan este vídeo para conocer un poco mejor al pintor y como material de ampliación pueden leer: \"Emocionario\" para identificar tanto sus emociones como las de nuestro artista.</p>\n<p><a href=\"https://youtu.be/svNjf3KEPRs\">https://youtu.be/svNjf3KEPRs</a></p>\n<p>Crearán un mini diccionario con palabras que consideren importantes, les gusten o se relacionen con el Arte y con Van Gogh como por ejemplo: </p>\n<p>Emoción, pintor, obra de arte, color.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485369287-eb7ih34g1</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485369287-eb7ih34g1</odePageId>
+      <odeBlockId>block-1775485590768-kkl33ol2o</odeBlockId>
+      <blockName>Sesión 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485369287-eb7ih34g1</odePageId>
+          <odeBlockId>block-1775485590768-kkl33ol2o</odeBlockId>
+          <odeIdeviceId>idevice-1775485590767-bywg96dne</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 2</strong>: Estaciones de aprendizaje. El alumnado creará una memoria del pintor de manera cooperativa en pequeño grupo, fomentando el trabajo en equipo, comprensión oral y escrita.</p>
+<p>En estas estaciones encontramos: trivial con preguntas sobre Vincent Van Gogh para comprobar lo que han aprendido, se realiza en una tablet. Libros que deben leer en voz alta para aprender a escucharse, respetar el turno de palabra, entonación, expresión oral, etc. Cuaderno de pegatinas que deben trabajar de manera cooperativa, láminas plastificadas con diferentes obras que deben manipular, observar, dialogar y aprender unos de otros.</p>
+<p>En esta sesión recogeré una evidencia de evaluación a través de una <a href="https://educastur-my.sharepoint.com/:w:/g/personal/patriciamac_educastur_org/IQCundRSIc6QTLFiDGUaut2-AdP1fyS0l7NdWy-e4hwIpXA" target="_blank" title="" rel="noopener">rúbrica de trabajo en equipo</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485590767-bywg96dne","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 2</strong>: Estaciones de aprendizaje. El alumnado creará una memoria del pintor de manera cooperativa en pequeño grupo, fomentando el trabajo en equipo, comprensión oral y escrita.</p>\n<p>En estas estaciones encontramos: trivial con preguntas sobre Vincent Van Gogh para comprobar lo que han aprendido, se realiza en una tablet. Libros que deben leer en voz alta para aprender a escucharse, respetar el turno de palabra, entonación, expresión oral, etc. Cuaderno de pegatinas que deben trabajar de manera cooperativa, láminas plastificadas con diferentes obras que deben manipular, observar, dialogar y aprender unos de otros.</p>\n<p>En esta sesión recogeré una evidencia de evaluación a través de una <a href=\"https://educastur-my.sharepoint.com/:w:/g/personal/patriciamac_educastur_org/IQCundRSIc6QTLFiDGUaut2-AdP1fyS0l7NdWy-e4hwIpXA\" target=\"_blank\" title=\"\" rel=\"noopener\">rúbrica de trabajo en equipo</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485377617-2lbcnbftt</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485377617-2lbcnbftt</odePageId>
+      <odeBlockId>block-1775485765672-m4l75i374</odeBlockId>
+      <blockName>Sesión 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485377617-2lbcnbftt</odePageId>
+          <odeBlockId>block-1775485765672-m4l75i374</odeBlockId>
+          <odeIdeviceId>idevice-1775485765669-757fe7nv2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 3</strong>: Se trabaja la descripción y el adjetivo a través de un nuevo cuadro: "Dormitorio en Arlés". Van a recrear su habitación a partir de la habitación de Van Gogh, empleando y repasando: el sustantivo, adjetivo, la descripción. </p>
+<p>A través de una escala de valoración se recogerá evidencia de evaluación con criterios como: comprende quien fue Van Gogh, identifica emociones, se expresa con claridad oralmente, participa en las actividades, presenta creatividad en sus trabajos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485765669-757fe7nv2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 3</strong>: Se trabaja la descripción y el adjetivo a través de un nuevo cuadro: \"Dormitorio en Arlés\". Van a recrear su habitación a partir de la habitación de Van Gogh, empleando y repasando: el sustantivo, adjetivo, la descripción. </p>\n<p>A través de una escala de valoración se recogerá evidencia de evaluación con criterios como: comprende quien fue Van Gogh, identifica emociones, se expresa con claridad oralmente, participa en las actividades, presenta creatividad en sus trabajos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485388279-11ffnpppn</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485388279-11ffnpppn</odePageId>
+      <odeBlockId>block-1775485791368-kczzyhwiy</odeBlockId>
+      <blockName>Sesión 4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485388279-11ffnpppn</odePageId>
+          <odeBlockId>block-1775485791368-kczzyhwiy</odeBlockId>
+          <odeIdeviceId>idevice-1775485791367-jmewntwex</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 4</strong>: Debatimos sobre la importancia de la familia como lo fue para Van Gogh su hermano Theo y escriben una carta como las que ellos se enviaban. Trabajan primero en pequeño grupo y la carta de manera individual para observar su progreso y autonomía. </p>
+<p>En este caso registro en el diario de aula las evidencias que recojo a través de la observación sistemática.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485791367-jmewntwex","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 4</strong>: Debatimos sobre la importancia de la familia como lo fue para Van Gogh su hermano Theo y escriben una carta como las que ellos se enviaban. Trabajan primero en pequeño grupo y la carta de manera individual para observar su progreso y autonomía. </p>\n<p>En este caso registro en el diario de aula las evidencias que recojo a través de la observación sistemática.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485395062-dj81b49bu</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485395062-dj81b49bu</odePageId>
+      <odeBlockId>block-1775485818618-q91p4189e</odeBlockId>
+      <blockName>Sesión 5</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485395062-dj81b49bu</odePageId>
+          <odeBlockId>block-1775485818618-q91p4189e</odeBlockId>
+          <odeIdeviceId>idevice-1775485818617-z753h8z6q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 5</strong>: Preparamos un guion para el podcast que empezaremos a grabar en nuestra radio escolar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485818617-z753h8z6q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 5</strong>: Preparamos un guion para el podcast que empezaremos a grabar en nuestra radio escolar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485400422-3jy8pok7e</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485400422-3jy8pok7e</odePageId>
+      <odeBlockId>block-1775485850834-9mbmvniyd</odeBlockId>
+      <blockName>Sesión 6</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485400422-3jy8pok7e</odePageId>
+          <odeBlockId>block-1775485850834-9mbmvniyd</odeBlockId>
+          <odeIdeviceId>idevice-1775485850833-65ovaof1n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 6</strong>: Crean su propio poema y aprendemos a recitar. En esta sesión van a elaborar un poema y recitarlo de manera oral para el resto de compañeros/as. Primeramente les daré un explicación apoyada en la PDI sobre el poema: versos, estrofa, rima.... para posteriormente trabajarlo de manera cooperativa como vienen haciendo en sesiones anteriores.</p>
+<p>A través de un FORMS les realizo una prueba escrita sobre lo aprendido hasta ahora.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485850833-65ovaof1n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 6</strong>: Crean su propio poema y aprendemos a recitar. En esta sesión van a elaborar un poema y recitarlo de manera oral para el resto de compañeros/as. Primeramente les daré un explicación apoyada en la PDI sobre el poema: versos, estrofa, rima.... para posteriormente trabajarlo de manera cooperativa como vienen haciendo en sesiones anteriores.</p>\n<p>A través de un FORMS les realizo una prueba escrita sobre lo aprendido hasta ahora.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485408270-n66vvrgde</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 7</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485408270-n66vvrgde</odePageId>
+      <odeBlockId>block-1775485877485-yzimsee56</odeBlockId>
+      <blockName>Sesión 7</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485408270-n66vvrgde</odePageId>
+          <odeBlockId>block-1775485877485-yzimsee56</odeBlockId>
+          <odeIdeviceId>idevice-1775485877484-8dvlo0q6t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 7</strong>: Visitamos el centro municipal del barrio como visita complementaria para visualizar una representación teatral con música a través de un proyecto de divulgación cultural que trabaja con el arte: teatro, música y pintura. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485877484-8dvlo0q6t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 7</strong>: Visitamos el centro municipal del barrio como visita complementaria para visualizar una representación teatral con música a través de un proyecto de divulgación cultural que trabaja con el arte: teatro, música y pintura. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485417358-kt4wdnkcu</odePageId>
+  <odeParentPageId>page-1775485284034-r8gu2b4b1</odeParentPageId>
+  <pageName>Sesión 8</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485417358-kt4wdnkcu</odePageId>
+      <odeBlockId>block-1775485914652-t7d2ckqvz</odeBlockId>
+      <blockName>Sesión 8</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485417358-kt4wdnkcu</odePageId>
+          <odeBlockId>block-1775485914652-t7d2ckqvz</odeBlockId>
+          <odeIdeviceId>idevice-1775485914649-ll6jjygqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 8</strong>: En esta última sesión de nuestra unidad didáctica sobre Van Gogh con la colaboración de las familias tanto en casa como en el centro educativo, preparamos los últimos detalles para el podcast que escucharán a través de un enlace para que tanto en el centro educativo como las familias puedan acceder y disfrutar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775485914649-ll6jjygqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 8</strong>: En esta última sesión de nuestra unidad didáctica sobre Van Gogh con la colaboración de las familias tanto en casa como en el centro educativo, preparamos los últimos detalles para el podcast que escucharán a través de un enlace para que tanto en el centro educativo como las familias puedan acceder y disfrutar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775485995958-bzd9fko4e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Diseño Universal para el Aprendizaje</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Diseño Universal para el Aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775485995958-bzd9fko4e</odePageId>
+      <odeBlockId>block-1775486000550-n2mx5c77v</odeBlockId>
+      <blockName>8. Diseño Universal para el Aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775485995958-bzd9fko4e</odePageId>
+          <odeBlockId>block-1775486000550-n2mx5c77v</odeBlockId>
+          <odeIdeviceId>idevice-1775486000549-kwnz7tqen</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Todo lo trabajado a lo largo de las sesiones serán los productos que van a aparecer en la infografía sobre nuestro pintor Vincent Van Gogh: poemas, descripción, obras de arte como: la habitación, autorretrato...</p>
+<p>Se irá completando en otras áreas como educación artística ya que nuestra profe de música también nos enseña sobre la musicalidad de un poema y como recitarlo y se irá completando.</p>
+<p>Cuando la infografía este completa la imprimiremos para que todos/as puedan disfrutarla y compartirla.</p>
+<p>Siguiendo los principios <strong>DUA </strong>se proporcionará a lo largo de las sesiones múltiples formas de representación, acción y expresión adaptándose a las diferencias individuales del alumnado como: apoyo visual, vídeos y textos sencillos que puedan comprender, actividades adaptadas y que sean para todos/as siguiendo los principios de inclusión, con los apoyos ordinarios y específicos correspondientes y dentro del aula. </p>
+<p>En Microsoft <strong>TEAMS </strong>subiré contenido de repaso sobre esta unidad con: test, vídeos o enlaces para seguir aprendiendo e investigando, juegos de relacionar emociones o completar frases sencillas a través de eXeLearning. </p>
+<p>Este recurso educativo se publica bajo licencia: Creative Commons Reconocimiento-Compartir Igual 4.0 lo que permite su uso, adaptación y difusión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775486000549-kwnz7tqen","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todo lo trabajado a lo largo de las sesiones serán los productos que van a aparecer en la infografía sobre nuestro pintor Vincent Van Gogh: poemas, descripción, obras de arte como: la habitación, autorretrato...</p>\n<p>Se irá completando en otras áreas como educación artística ya que nuestra profe de música también nos enseña sobre la musicalidad de un poema y como recitarlo y se irá completando.</p>\n<p>Cuando la infografía este completa la imprimiremos para que todos/as puedan disfrutarla y compartirla.</p>\n<p>Siguiendo los principios <strong>DUA </strong>se proporcionará a lo largo de las sesiones múltiples formas de representación, acción y expresión adaptándose a las diferencias individuales del alumnado como: apoyo visual, vídeos y textos sencillos que puedan comprender, actividades adaptadas y que sean para todos/as siguiendo los principios de inclusión, con los apoyos ordinarios y específicos correspondientes y dentro del aula. </p>\n<p>En Microsoft <strong>TEAMS </strong>subiré contenido de repaso sobre esta unidad con: test, vídeos o enlaces para seguir aprendiendo e investigando, juegos de relacionar emociones o completar frases sencillas a través de eXeLearning. </p>\n<p>Este recurso educativo se publica bajo licencia: Creative Commons Reconocimiento-Compartir Igual 4.0 lo que permite su uso, adaptación y difusión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
